@@ -83,6 +83,40 @@ CampusConnect/
 ├── pom.xml
 └── README.md
 ```
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Campus Connect Home Page](home.png)
+
+### 🔐 Admin Login
+![Admin Login](adminlogin.png)
+
+### 📊 Admin Dashboard
+![Admin Dashboard](admindashboard.png)
+
+### 👤 Add New Admin
+![Add New Admin](addnewadmin.png)
+
+### 🎓 Add Student
+![Add Student](addstudent.png)
+
+### 📝 Add Student - Additional View
+![Add Student Form](addstudent1.png)
+
+### 📋 View All Students
+![View All Students](viewallstudents.png)
+
+### ✏️ Update Student
+![Update Student](updatestudent.png)
+
+### ✏️ Update Student - Additional View
+![Update Student Form](updatestudent1.png)
+
+### 📚 Upload Results
+![Upload Results](uploadresults.png)
+
+### 📚 Upload Results - Additional View
+![Upload Results Form](uploadresults1.png)
 
 *Note: The structure above is representative. Your actual package and JSP filenames may differ.*
 
